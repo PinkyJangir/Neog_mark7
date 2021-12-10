@@ -1,0 +1,31 @@
+name{font-size: 2.5em;
+    font-style: italic;
+}
+#translate{
+    background-color: #2ea9f0;
+    color: black;
+}
+
+#txt-input{
+    border: 3px solid purple; 
+    position:relative; 
+    top:-50px;
+    height:150px; 
+    width: 50%;
+    font-style: italic;
+    border-bottom-left-radius: 3rem;
+
+
+}
+.font{
+    font-style: italic;
+}
+body{
+    background-color: rgb(202, 187, 187);
+}
+.ab{
+    font-style: italic
+}
+.sty{
+    font-style: italic;    
+}
